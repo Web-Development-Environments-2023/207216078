@@ -2,7 +2,7 @@
 
 # Web Development Environments
 
-In our first assignment in the course we were asked to create a website about a character in the third age. 
+In our first assignment in the course we were asked to create a website about a character in the third age. <br>
 When I think about middle age people the first people who come to mind are my grandparents, so I decided that my website will be about my grandfather. 
 
 This is the first time I work with html hence this is the first website I built.
